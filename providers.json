@@ -1,0 +1,51 @@
+[
+  {
+    "name": "MelonSoda",
+    "category": "Games",
+    "description": "this is the greatest ubg of all time (def not biased at all)",
+    "type": "fetch",
+    "content": "https://raw.githubusercontent.com/linuxfandudeguy/melonsoda/refs/heads/main/offline/index.html"
+  },
+  {
+    "name": "PeteZah Lite",
+    "category": "Games",
+    "description": "petezah but only games",
+    "type": "fetch",
+    "url": "https://raw.githubusercontent.com/PeteZah-Games/PeteZahLite/refs/heads/main/index.html"
+  },
+  {
+    "name": "GN-Math",
+    "category": "Games",
+    "description": "goated",
+    "type": "fetch",
+    "url": "https://unpkg.com/snoopylearning@1.0.0/dist/index.html"
+  },
+  {
+    "name": "Lumin",
+    "category": "Games",
+    "description": "ts prob blocked but still here just in case ",
+    "type": "srcdoc",
+    "content": "<div id='games'></div><script src='https://cdn.jsdelivr.net/gh/luminsdk/script@latest/lumin.min.js'><\/script><script>Lumin.init({container:'#games',theme:'dark'});<\/script>"
+  },
+  {
+    "name": "Ultimate Game Stash",
+    "category": "Games",
+    "description": "goated 2.0",
+    "type": "fetch",
+    "url": "https://raw.githubusercontent.com/bubbls/ugs-singlefile/refs/heads/main/AASINGLEFILE.html"
+  },
+  {
+    "name": "Noah's Tutoring Hub",
+    "category": "Games",
+    "description": "goated 3.0 (this is a old singlefile tho)",
+    "type": "fetch",
+    "url": "https://raw.githubusercontent.com/linuxfandudeguy/fluffy-fiesta/refs/heads/main/noah.html"
+  },
+  {
+    "name": "BestSpark",
+    "category": "Games",
+    "description": "thank you bestspark for making the singlefile 🙏🙏",
+    "type": "fetch",
+    "url": "https://raw.githubusercontent.com/BestSpark687090/BestSpark687090/refs/heads/main/single.html"
+  }
+]
